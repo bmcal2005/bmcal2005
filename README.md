@@ -19,16 +19,15 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/bhavya-mamnani-212a79233/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://bmcal2005.github.io/">
-    #fade, idk add image later
-  </a>
 </div>
 
 ---
 
 - 🎓 UC Berkeley, MechE
 - 💻 Interested in Robotics, Energy, Deep Tech Ventures
+- 🧪 writing about hard tech and first principles @ https://substack.com/@bhavyamamnani
+- 🧪 post about hard tech and meche work @ https://www.tiktok.com/@inkedbhav 
+- 👇🏾 check out my work @ https://bmcal2005.github.io/
 - 📫 Reach me at bhavya_mamnani@berkeley.edu or bmcal2005@gmail.com
-
 
   ---
