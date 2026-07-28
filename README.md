@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎓 UC Berkeley, MechE
 - 💻 Interested in Robotics, Energy, Deep Tech Ventures
 - 🧪 writing about hard tech and first principles @ https://bhavyamamnani.substack.com/
-- 🚀 post about hard tech and meche work @ https://www.tiktok.com/@inkedbhav 
+<!-- - 🚀 post about hard tech and meche work @ https://www.tiktok.com/@inkedbhav -->
 - 👇🏾 check out my work @ https://bmcal2005.github.io/
 - 📫 Reach me at bhavya_mamnani@berkeley.edu or bmcal2005@gmail.com
 
